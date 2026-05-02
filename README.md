@@ -1,4 +1,4 @@
-# Databases and Analytics Assignment — NorthStar Urban Mobility and Logistics
+# Databases and Analytics Assignment 
 
 ## Overview
 The case study is based on NorthStar Urban Mobility and Logistics, a regional UK transport company facing operational inefficiencies, rising complaints, and fragmented data systems.
