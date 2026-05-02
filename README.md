@@ -1,16 +1,7 @@
 # Databases and Analytics Assignment — NorthStar Urban Mobility and Logistics
 
 ## Overview
-This repository contains the analytical notebooks for the Databases and Analytics 
-module assignment (CP60056E) at the University of West London. The case study is 
-based on NorthStar Urban Mobility and Logistics, a regional UK transport company 
-facing operational inefficiencies, rising complaints, and fragmented data systems.
-
-## Repository Structure
-| Notebook | Description |
-| `NorthStar_SQL_R.ipynb` | SQL queries using sqldf in R + R analytics with ggplot2 |
-| `NorthStar_Python.ipynb` | Data processing and visualisation using Pandas, NumPy, Matplotlib and Seaborn |
-| `NorthStar_MongoDB.ipynb` | MongoDB Atlas NoSQL database design, PyMongo CRUD operations, indexing and query optimisation |
+The case study is based on NorthStar Urban Mobility and Logistics, a regional UK transport company facing operational inefficiencies, rising complaints, and fragmented data systems.
 
 ## Technologies Used
 - R (sqldf, ggplot2)
