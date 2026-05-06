@@ -18,6 +18,3 @@ drivers, vehicles, complaints, incidents, hubs, app events and a data dictionary
 - RiversSide zone has the highest delivery failure rate
 - High severity complaints take an average of 13 days to resolve
 - Indexing reduced MongoDB query scan from 950 to 132 documents (86% improvement)
-
-## Module
-University of West London — Databases and Analytics (CP60056E)
